@@ -1,0 +1,1 @@
+This is first time wring some text into Git!
